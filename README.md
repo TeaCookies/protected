@@ -18,11 +18,11 @@
 
 # 주요기능설명
 
-![목록1](https://user-images.githubusercontent.com/50124719/70513419-eb88f880-1b74-11ea-825f-57729a40f4fb.png){: width="50%" height="50%"}
+![목록1](https://user-images.githubusercontent.com/50124719/70513419-eb88f880-1b74-11ea-825f-57729a40f4fb.png)
 
 무한스크롤로 썸네일 리스트를 구현하였습니다. 지역, 제목, 내용, 견종으로 검색 가능하며 글 등록시 인증회원 여부를 검증합니다.
 
-![분양등록1](https://user-images.githubusercontent.com/50124719/70514291-b5e50f00-1b76-11ea-8bdb-5ca38f7cb157.png)
+
 
 ![비전](https://user-images.githubusercontent.com/50124719/70514847-b29e5300-1b77-11ea-8a27-9e487d6709e5.gif)
 
@@ -42,5 +42,5 @@ Google Map API, Geocoding API를 이용해 분양가능지역, 발견 위치에 
 
 ![실종](https://user-images.githubusercontent.com/50124719/70516126-c8ad1300-1b79-11ea-9502-52259771845c.png)
 
-실종게시판은 FullCalendar를 이용하여 캘린더 형식으로 구현하였습니다.
+실종게시판은 FullCalendar를 이용하여 캘린더 형식으로 구현하였습니다.  
 분양글 등록과 마찬가지로 Google Vision API를 사용하여 견종과 크기를 출력하며 Google Map API, Geocoding API를 이용해 발견 지역에 마커와 팝업창, 간략 주소를 출력합니다.
