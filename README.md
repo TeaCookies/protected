@@ -18,7 +18,7 @@
 
 # 주요기능설명
 
-![목록1](https://user-images.githubusercontent.com/50124719/70513419-eb88f880-1b74-11ea-825f-57729a40f4fb.png){:width="500" height="500"}
+![목록1](https://user-images.githubusercontent.com/50124719/70513419-eb88f880-1b74-11ea-825f-57729a40f4fb.png){: width="50%" height="50%"}
 
 무한스크롤로 썸네일 리스트를 구현하였습니다. 지역, 제목, 내용, 견종으로 검색 가능하며 글 등록시 인증회원 여부를 검증합니다.
 
